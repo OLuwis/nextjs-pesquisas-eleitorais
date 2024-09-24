@@ -1,0 +1,184 @@
+[
+  {
+    "nome": "Aracaju",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/61/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Belém",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/72/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Belo Horizonte",
+    "links": {
+      "datafolha": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/53/?tipo_pergunta=ESTIMULADA&instituto=Datafolha",
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/53/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Boa Vista",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/69/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Campo Grande",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/63/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Cuiabá",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/62/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Curitiba",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/65/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Florianópolis",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/64/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Fortaleza",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/55/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Goiânia",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/76/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "João Pessoa",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/67/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Macapá",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/58/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Maceió",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/73/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Manaus",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/57/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Natal",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/60/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Palmas",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/75/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Porto Alegre",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/70/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Porto Velho",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/68/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Recife",
+    "links": {
+      "datafolha": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/54/?tipo_pergunta=ESTIMULADA&instituto=Datafolha",
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/54/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Rio Branco",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/56/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Rio de Janeiro",
+    "links": {
+      "datafolha": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/52/?tipo_pergunta=ESTIMULADA&instituto=Datafolha",
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/52/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Salvador",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/66/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "São Luís",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/77/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "São Paulo",
+    "links": {
+      "datafolha": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/51/?tipo_pergunta=ESTIMULADA&instituto=Datafolha",
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/51/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Teresina",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/59/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  },
+  {
+    "nome": "Vitória",
+    "links": {
+      "datafolha": null,
+      "quaest": "https://especiaisg1.globo/api/pesquisas-eleitorais/graficos/74/?tipo_pergunta=ESTIMULADA&instituto=Quaest"
+    }
+  }
+]
