@@ -2,6 +2,7 @@ import { Capital } from "@/types/capital";
 import dados from "@/commons/fontes.json"
 import Menu from "@/components/menu";
 import Titulo from "@/components/titulo";
+import Grafico from "@/components/grafico";
 
 export default async function Home() {
   // const capitais: Capital[] = dados as Capital[]
@@ -15,6 +16,7 @@ export default async function Home() {
     <div>
       <Titulo />
       <Menu />
+      <Grafico />
     </div>
   );
 }
