@@ -1,0 +1,2609 @@
+{
+  "resultado": {
+    "cenarios": [
+      {
+        "id": 37152,
+        "identificador": "total-total-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": "Total",
+        "bandeira": "Total",
+        "bandeira_slug": "total",
+        "variavel_cruzamento": "Total",
+        "opcoes_resposta": [
+          {
+            "nome": "Bruno Reis",
+            "nome_popular": null,
+            "partido": {
+              "nome": "UNIÃO",
+              "sigla": "UNIÃO",
+              "cor": "#3a91af",
+              "id": 41
+            },
+            "foto": "https://s2-g1.glbimg.com/BVo0wrc0ZwWRX4zxzvupmkwvUl8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s.glbimg.com/jo/el/2024/candidatos/fotos/ba/38490/FBA50001907549_div.jpg",
+            "cor": "#000000"
+          },
+          {
+            "nome": "Branco/Nulo/Não Vai Votar",
+            "nome_popular": null,
+            "partido": null,
+            "foto": "https://s2-g1.glbimg.com/i5Yr8VIJSHgdswoQbwEh-fxG3WY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s3.glbimg.com/v1/AUTH_54c09d82cadd439d9ee6866803308d16/public/2022/pesquisas-eleitorais/assets/images/bonecos_presidentes/branco.png",
+            "cor": "#c2c2c2"
+          },
+          {
+            "nome": "Geraldo Júnior",
+            "nome_popular": null,
+            "partido": {
+              "nome": "MDB",
+              "sigla": "MDB",
+              "cor": "#4f9960",
+              "id": 15
+            },
+            "foto": "https://s2-g1.glbimg.com/PAU02Y3H2rby-RMes1tBK5f_3a8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s.glbimg.com/jo/el/2024/candidatos/fotos/ba/38490/FBA50002136638_div.jpg",
+            "cor": "#000000"
+          },
+          {
+            "nome": "Indecisos",
+            "nome_popular": null,
+            "partido": null,
+            "foto": null,
+            "cor": "#7a7a7a"
+          },
+          {
+            "nome": "Kleber Rosa",
+            "nome_popular": null,
+            "partido": {
+              "nome": "PSOL",
+              "sigla": "PSOL",
+              "cor": "#e08500",
+              "id": 9
+            },
+            "foto": "https://s2-g1.glbimg.com/8kpyFxtOxDBKSadqjmBkJD7Ge-4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s.glbimg.com/jo/el/2024/candidatos/fotos/ba/38490/FBA50001997496_div.jpg",
+            "cor": "#000000"
+          },
+          {
+            "nome": "Victor Marinho",
+            "nome_popular": null,
+            "partido": {
+              "nome": "PSTU",
+              "sigla": "PSTU",
+              "cor": "#ce5252",
+              "id": 1
+            },
+            "foto": "https://s2-g1.glbimg.com/3CzGswo_I8_OegM5r2YYCQ8puAM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s.glbimg.com/jo/el/2024/candidatos/fotos/ba/38490/FBA50002092275_div.jpg",
+            "cor": "#000000"
+          }
+        ],
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.12
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.66
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.74
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.09
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.05
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.04
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.01
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.01
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "margem": 3
+      }
+    ],
+    "bandeiras_estratos": [
+      {
+        "id": "cor",
+        "nome": "Cor"
+      },
+      {
+        "id": "por-avaliacao-do-prefeito",
+        "nome": "Por avaliação do prefeito"
+      },
+      {
+        "id": "sexo",
+        "nome": "Sexo"
+      },
+      {
+        "id": "renda-domiciliar",
+        "nome": "Renda domiciliar"
+      },
+      {
+        "id": "religiao",
+        "nome": "Religião"
+      },
+      {
+        "id": "idade",
+        "nome": "Idade"
+      },
+      {
+        "id": "escolaridade",
+        "nome": "Escolaridade"
+      }
+    ],
+    "opcoes_resposta_estratos": [
+      {
+        "nome": "Bruno Reis",
+        "nome_popular": null,
+        "partido": {
+          "nome": "UNIÃO",
+          "sigla": "UNIÃO",
+          "cor": "#3a91af",
+          "id": 41
+        },
+        "foto": "https://s2-g1.glbimg.com/BVo0wrc0ZwWRX4zxzvupmkwvUl8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s.glbimg.com/jo/el/2024/candidatos/fotos/ba/38490/FBA50001907549_div.jpg",
+        "cor": "#000000"
+      },
+      {
+        "nome": "Branco/Nulo/Não Vai Votar",
+        "nome_popular": null,
+        "partido": null,
+        "foto": "https://s2-g1.glbimg.com/i5Yr8VIJSHgdswoQbwEh-fxG3WY=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s3.glbimg.com/v1/AUTH_54c09d82cadd439d9ee6866803308d16/public/2022/pesquisas-eleitorais/assets/images/bonecos_presidentes/branco.png",
+        "cor": "#c2c2c2"
+      },
+      {
+        "nome": "Geraldo Júnior",
+        "nome_popular": null,
+        "partido": {
+          "nome": "MDB",
+          "sigla": "MDB",
+          "cor": "#4f9960",
+          "id": 15
+        },
+        "foto": "https://s2-g1.glbimg.com/PAU02Y3H2rby-RMes1tBK5f_3a8=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s.glbimg.com/jo/el/2024/candidatos/fotos/ba/38490/FBA50002136638_div.jpg",
+        "cor": "#000000"
+      },
+      {
+        "nome": "Indecisos",
+        "nome_popular": null,
+        "partido": null,
+        "foto": null,
+        "cor": "#7a7a7a"
+      },
+      {
+        "nome": "Kleber Rosa",
+        "nome_popular": null,
+        "partido": {
+          "nome": "PSOL",
+          "sigla": "PSOL",
+          "cor": "#e08500",
+          "id": 9
+        },
+        "foto": "https://s2-g1.glbimg.com/8kpyFxtOxDBKSadqjmBkJD7Ge-4=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s.glbimg.com/jo/el/2024/candidatos/fotos/ba/38490/FBA50001997496_div.jpg",
+        "cor": "#000000"
+      },
+      {
+        "nome": "Victor Marinho",
+        "nome_popular": null,
+        "partido": {
+          "nome": "PSTU",
+          "sigla": "PSTU",
+          "cor": "#ce5252",
+          "id": 1
+        },
+        "foto": "https://s2-g1.glbimg.com/3CzGswo_I8_OegM5r2YYCQ8puAM=/200x200/smart/filters:brightness(5):contrast(5):background_color(fff)/https://s.glbimg.com/jo/el/2024/candidatos/fotos/ba/38490/FBA50002092275_div.jpg",
+        "cor": "#000000"
+      }
+    ],
+    "estratos": [
+      {
+        "id": 37143,
+        "identificador": "cor-outra-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Cor",
+        "bandeira_slug": "cor",
+        "variavel_cruzamento": "Outra",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.55
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.68
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.02
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.01
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.19
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.17
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.13
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 57
+      },
+      {
+        "id": 37146,
+        "identificador": "cor-parda-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Cor",
+        "bandeira_slug": "cor",
+        "variavel_cruzamento": "Parda",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.67
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.74
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.01
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.12
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.1
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.05
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 5
+      },
+      {
+        "id": 37149,
+        "identificador": "cor-preta-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Cor",
+        "bandeira_slug": "cor",
+        "variavel_cruzamento": "Preta",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.68
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.72
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.07
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.13
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 6
+      },
+      {
+        "id": 37155,
+        "identificador": "cor-branca-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Cor",
+        "bandeira_slug": "cor",
+        "variavel_cruzamento": "Branca",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.66
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.74
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.02
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.13
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 8
+      },
+      {
+        "id": 37158,
+        "identificador": "por-avaliacao-do-prefeito-regular-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Por avaliação do prefeito",
+        "bandeira_slug": "por-avaliacao-do-prefeito",
+        "variavel_cruzamento": "Regular",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.52
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.56
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.12
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.11
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.19
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.15
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 6
+      },
+      {
+        "id": 37161,
+        "identificador": "sexo-feminino-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Sexo",
+        "bandeira_slug": "sexo",
+        "variavel_cruzamento": "Feminino",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.69
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.71
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.07
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.04
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.13
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 4
+      },
+      {
+        "id": 37164,
+        "identificador": "por-avaliacao-do-prefeito-negativo-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Por avaliação do prefeito",
+        "bandeira_slug": "por-avaliacao-do-prefeito",
+        "variavel_cruzamento": "Negativo",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.13
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.32
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.22
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.21
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.37
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.34
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.02
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 11
+      },
+      {
+        "id": 37167,
+        "identificador": "por-avaliacao-do-prefeito-positivo-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Por avaliação do prefeito",
+        "bandeira_slug": "por-avaliacao-do-prefeito",
+        "variavel_cruzamento": "Positivo",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.85
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.86
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.04
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.02
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.02
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.05
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 4
+      },
+      {
+        "id": 37170,
+        "identificador": "renda-domiciliar-ate-3-salarios-minimos-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Renda domiciliar",
+        "bandeira_slug": "renda-domiciliar",
+        "variavel_cruzamento": "Até 3 salários mínimos",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.69
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.74
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.07
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.01
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.11
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 4
+      },
+      {
+        "id": 37173,
+        "identificador": "religiao-catolica-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Religião",
+        "bandeira_slug": "religiao",
+        "variavel_cruzamento": "Católica",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.66
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.73
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.04
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.01
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.12
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 5
+      },
+      {
+        "id": 37176,
+        "identificador": "sexo-masculino-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Sexo",
+        "bandeira_slug": "sexo",
+        "variavel_cruzamento": "Masculino",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.67
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.76
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.11
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.01
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.11
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 5
+      },
+      {
+        "id": 37179,
+        "identificador": "renda-domiciliar-de-3-a-7-salarios-minimos-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Renda domiciliar",
+        "bandeira_slug": "renda-domiciliar",
+        "variavel_cruzamento": "De 3 a 7 salários mínimos",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.63
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.75
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.11
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.13
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.01
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 6
+      },
+      {
+        "id": 37182,
+        "identificador": "religiao-evangelica-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Religião",
+        "bandeira_slug": "religiao",
+        "variavel_cruzamento": "Evangélica",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.79
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.81
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.02
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.04
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.01
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 6
+      },
+      {
+        "id": 37185,
+        "identificador": "idade-16-a-34-anos-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Idade",
+        "bandeira_slug": "idade",
+        "variavel_cruzamento": "16 a 34 anos",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.71
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.79
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.04
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.04
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.11
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 6
+      },
+      {
+        "id": 37188,
+        "identificador": "idade-35-a-59-anos-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Idade",
+        "bandeira_slug": "idade",
+        "variavel_cruzamento": "35 a 59 anos",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.67
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.72
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.05
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.14
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 5
+      },
+      {
+        "id": 37191,
+        "identificador": "renda-domiciliar-mais-de-7-salarios-minimos-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Renda domiciliar",
+        "bandeira_slug": "renda-domiciliar",
+        "variavel_cruzamento": "Mais de 7 salários mínimos",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.65
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.7
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.11
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.17
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.1
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.08
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 8
+      },
+      {
+        "id": 37194,
+        "identificador": "idade-60-anos-ou-mais-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Idade",
+        "bandeira_slug": "idade",
+        "variavel_cruzamento": "60 anos ou mais",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.62
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.7
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.02
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.01
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.11
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 7
+      },
+      {
+        "id": 37197,
+        "identificador": "escolaridade-ate-o-ensino-fundamental-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Escolaridade",
+        "bandeira_slug": "escolaridade",
+        "variavel_cruzamento": "Até o ensino fundamental",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.66
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.75
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.1
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.02
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.01
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.1
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 7
+      },
+      {
+        "id": 37200,
+        "identificador": "religiao-outrasnao-tem-religiao-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Religião",
+        "bandeira_slug": "religiao",
+        "variavel_cruzamento": "Outras/não tem religião",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.6
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.7
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.08
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.05
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.01
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.15
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.11
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.06
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 7
+      },
+      {
+        "id": 37203,
+        "identificador": "escolaridade-ensino-superior-incompleto-ou-mais-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Escolaridade",
+        "bandeira_slug": "escolaridade",
+        "variavel_cruzamento": "Ensino superior incompleto ou mais",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.63
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.73
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.07
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.04
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.05
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.16
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.09
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.07
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 6
+      },
+      {
+        "id": 37206,
+        "identificador": "escolaridade-ensino-medio-completo-ou-incompleto-008-EST-PREF-1T",
+        "titulo": "",
+        "titulo_visualizado": null,
+        "bandeira": "Escolaridade",
+        "bandeira_slug": "escolaridade",
+        "variavel_cruzamento": "Ensino médio completo ou incompleto",
+        "pergunta": {
+          "codigo": "008-EST-PREF-1T",
+          "conteudo": null
+        },
+        "data": [
+          {
+            "color": "#3a91af",
+            "option": "Bruno Reis",
+            "id": 489,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.71
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.73
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#4f9960",
+            "option": "Geraldo Júnior",
+            "id": 490,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.09
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.06
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#e08500",
+            "option": "Kleber Rosa",
+            "id": 168,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.03
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.03
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#ce5252",
+            "option": "Victor Marinho",
+            "id": 492,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.0
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.0
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#c2c2c2",
+            "option": "Branco/Nulo/Não Vai Votar",
+            "id": 390,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.12
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.1
+              }
+            ],
+            "isBar": false
+          },
+          {
+            "color": "#7a7a7a",
+            "option": "Indecisos",
+            "id": 385,
+            "values": [
+              {
+                "date": "2024-08-27T00:00:00Z",
+                "value": 0.04
+              },
+              {
+                "date": "2024-09-17T00:00:00Z",
+                "value": 0.07
+              }
+            ],
+            "isBar": false
+          }
+        ],
+        "saiba_mais": [],
+        "margem": 5
+      }
+    ],
+    "ordenacao_estratos": [
+      "SEXO",
+      "IDADE",
+      "COR",
+      "RENDA DOMICILIAR",
+      "RELIGIÃO",
+      "ESCOLARIDADE",
+      "NATUREZA DO MUNICÍPIO",
+      "POR AVALIAÇÃO DO PREFEITO"
+    ]
+  }
+}
