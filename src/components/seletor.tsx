@@ -1,21 +1,18 @@
 "use client"
 import { useState } from "react"
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "./ui/select"
 
 export default function Seletor({ placeholder, opcoes }: { placeholder: string, opcoes: string[] }) {
   const [value, setValue] = useState(placeholder)
 
   return (
-    <label>
-      <select
-        value={value}
-        onChange={e => setValue(e.target.value)}
-        className="font-sans rounded-md focus:border-current focus:ring-transparent"
-      >
-        <option disabled hidden>{placeholder}</option>
-        {opcoes.map(o => (
-          <option value={o} key={o}>{o}</option>
-        ))}
-      </select>
-    </label>
+    <Select>
+      <SelectTrigger className="w-full">
+        <SelectValue placeholder={placeholder} />
+      </SelectTrigger>
+      <SelectContent>
+        {opcoes.map(o => <SelectItem value={o} key={o}>{o}</SelectItem>)}
+      </SelectContent>
+    </Select>
   )
 }
