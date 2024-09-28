@@ -1,6 +1,7 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google"
 import "./globals.css";
+import { Metadata } from "next";
+import { Inter } from "next/font/google"
+import ProvedorTema from "@/components/provedorTema";
 
 const fonte = Inter({ subsets: ["latin"] })
 
@@ -15,9 +16,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-br">
-      <body className={`bg-white text-black ${fonte.className}`}>
-        {children}
+    <html lang="pt-br" suppressHydrationWarning>
+      <body className={`bg-background ${fonte.className}`}>
+        <ProvedorTema
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+        >
+          {children}
+        </ProvedorTema>
       </body>
     </html>
   );
