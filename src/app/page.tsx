@@ -13,7 +13,7 @@ export default async function Home() {
   // const data = res.text()
 
   return (
-    <div>
+    <div className="max-w-screen-xl m-auto">
       <Titulo />
       <Menu />
       <Grafico />
