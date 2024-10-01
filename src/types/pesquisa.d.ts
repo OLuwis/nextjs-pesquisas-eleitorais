@@ -6,10 +6,12 @@ export interface Pesquisa {
       data: [{
         color: string,
         option: string,
-        values: [{
+        date?: Date,
+        value?: number,
+        values?: {
           date: Date,
           value: number
-        }]
+        }[]
       }]
     }]
   }
