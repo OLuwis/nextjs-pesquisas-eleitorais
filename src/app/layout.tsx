@@ -1,7 +1,7 @@
 import "./globals.css";
 import { Metadata } from "next";
 import { Inter } from "next/font/google"
-import ProvedorTema from "@/components/provedorTema";
+import TemaProvider from "@/components/temaProvider";
 
 const fonte = Inter({ subsets: ["latin"] })
 
@@ -18,13 +18,13 @@ export default function RootLayout({
   return (
     <html lang="pt-br" suppressHydrationWarning>
       <body className={`bg-background ${fonte.className}`}>
-        <ProvedorTema
+        <TemaProvider
           attribute="class"
           defaultTheme="system"
           enableSystem
         >
           {children}
-        </ProvedorTema>
+        </TemaProvider>
       </body>
     </html>
   );
