@@ -1,6 +1,5 @@
 import Menu from "@/components/menu";
 import Titulo from "@/components/titulo";
-import Grafico from "@/components/grafico";
 
 export default function Home() {
   return (
