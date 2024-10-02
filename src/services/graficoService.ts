@@ -12,7 +12,7 @@ export function criarConfig(dados: Pesquisa): ChartConfig {
   return config
 }
 
-export function criarDados(dados: Pesquisa): Object[] {
+export function criarDados(dados: Pesquisa): object[] {
   const data = dados.resultado.cenarios[0].data
   const novosDados: { [key: string]: unknown }[] = data[0].value ? [{}] : data[0].values && !data[0].values[2] ? [{}, {}] : [{}, {}, {}]
 
