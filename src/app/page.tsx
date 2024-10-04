@@ -1,11 +1,13 @@
 import Menu from "@/components/menu";
-import Titulo from "@/components/titulo";
+import Cabecalho from "@/components/cabecalho";
+import Rodape from "@/components/rodape";
 
 export default function Home() {
   return (
     <div className="max-w-screen-xl m-auto">
-      <Titulo />
+      <Cabecalho />
       <Menu />
+      <Rodape />
     </div>
   );
 }
