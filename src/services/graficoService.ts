@@ -12,7 +12,7 @@ export function criarConfig(dados: Pesquisa): ChartConfig {
   return config
 }
 
-export function criarDados(dados: Pesquisa): object[] {
+export function criarDados(dados: Pesquisa): { [key: string]: unknown }[] {
   const data = dados.resultado.cenarios[0].data
   const novosDados: { [key: string]: unknown }[] = data[0].value ? [{}] : data[0].values && !data[0].values[2] ? [{}, {}] : [{}, {}, {}]
 
@@ -38,6 +38,9 @@ export function criarDados(dados: Pesquisa): object[] {
       }
 
       if (d.values[2]) {
+        if (!("date" in novosDados[2])) {
+          novosDados[2]["date"] = d.values[2].date
+        }
         novosDados[2][d.option.replace(/\W/g, "")] = parseInt((d.values[2].value * 100).toString())
       }
     }
