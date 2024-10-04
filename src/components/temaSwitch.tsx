@@ -12,19 +12,19 @@ export default function TemaSwitch() {
     <Button
       variant="outline"
       size="icon"
-      className="rounded-full"
+      className="rounded-full w-8 h-8"
       onClick={() => setTheme("dark")}
     >
-      <MoonIcon className="h-6 w-6" />
+      <MoonIcon className="h-4 w-4" />
     </Button>
   ) : (
     <Button
       variant="outline"
       size="icon"
-      className="rounded-full"
+      className="rounded-full w-8 h-8"
       onClick={() => setTheme("light")}
     >
-      <SunIcon className="h-6 w-6" />
+      <SunIcon className="h-4 w-4" />
     </Button>
   )
 }
